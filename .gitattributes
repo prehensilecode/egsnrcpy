@@ -1,1 +1,3 @@
 *.egsphant linguist-vendored
+*.c linguist-language=c
+*.py linguist-language=python
