@@ -1,3 +1,5 @@
+# use linguist-vendored since there's no classification for data files
 *.egsphant linguist-vendored
+*.3ddose linguist-vendored
 *.c linguist-language=c
 *.py linguist-language=python
